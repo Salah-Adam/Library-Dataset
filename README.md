@@ -6,7 +6,8 @@ SQL Based Project
 - So using my own skill on analysis, I wanted to answer some questions and derive insights from that dataset.
 
 ## Dataset Used
-- <a href="https://github.com/Salah-Adam/Library-Dataset/blob/main/tables%26insertions.sql">Dataset</a>
+  #### Tables and their Data
+  - <a href="https://github.com/Salah-Adam/Library-Dataset/blob/main/tables%26insertions.sql">Dataset</a>
 
 ## Questions
   - Find Total number of books in the library.
