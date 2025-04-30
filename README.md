@@ -27,7 +27,11 @@ SQL Based Project
   - Determine which days of the week see the most book rentals.
   - Which employees issue the most books?
 
-# Insights Include:
+## Queries. 
+ Here You find queries I wrote to answer above questions.
+- <a href="https://github.com/Salah-Adam/Library-Dataset/blob/main/Findings(Queries)">Queries</a>
+  
+## Insights Include:
 - The dataset covers two months of library rental data from different branches with issued and return statuses.
 - I found which days of the week see the most book rentals. Also Among March and April, I foundout that March is the month that highest number of books issued.
 - The data also covers the top 10 books with highest rental price.
