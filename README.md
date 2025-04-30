@@ -29,7 +29,7 @@ SQL Based Project
   - Which employees issue the most books?
 
 ## Queries. 
- Here You find queries I wrote to answer above questions.
+ Here you can find queries I wrote to answer questionS asked.
 - <a href="https://github.com/Salah-Adam/Library-Dataset/blob/main/Findings(Queries)">Queries</a>
   
 ## Insights Include:
